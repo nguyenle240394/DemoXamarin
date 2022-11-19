@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BueoZI0kVnbfN2kUtm5ZMA45/ZlcHC6PFRCxIi1UOCE6qo6v+/R/5Ss8YpIQQmx3u8SQp5cQtuIu5o+HltaWAg==",
+  "dgSpecHash": "H71z/UozMfdTmDPM0sT84kr11nNEmdSKbAwh9IZIG2uLcNpqMZoMAfV0DPnBXQ4klM2yFzXD6JCcfn/n15o8NA==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj",
+  "projectFilePath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENGUYEN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\LENGUYEN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SY0++Ty6ZUQMtRk70S+u/kyyvSFyqLwEeFqBWp0vCXj/VhOjR/p/iVJZoiq5QSMt6VkLo2ov7saYU/S8gGkL/Q==",
+  "dgSpecHash": "frQ8nZEMdE+yNvkQYG8Pft7YCRuos+kbtBUSwart03UFs3U6kFFDSQDoymMWh7f4slD0WM12pvLaukujFsjZNg==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace\\Demo\\Demo\\Demo.Android\\Demo.Android.csproj",
+  "projectFilePath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.Android\\Demo.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENGUYEN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\LENGUYEN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

@@ -3455,11 +3455,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\Demo\\Demo\\Demo.Android\\Demo.Android.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.Android\\Demo.Android.csproj",
       "projectName": "Demo.Android",
-      "projectPath": "D:\\WorkSpace\\Demo\\Demo\\Demo.Android\\Demo.Android.csproj",
+      "projectPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.Android\\Demo.Android.csproj",
       "packagesPath": "C:\\Users\\LENGUYEN\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\Demo\\Demo\\Demo.Android\\obj\\",
+      "outputPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3482,8 +3482,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj": {
-              "projectPath": "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj"
+            "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj": {
+              "projectPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj"
             }
           }
         }

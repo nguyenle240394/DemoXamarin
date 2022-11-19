@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XZ6olHLVStkJN1TzbtjpqplsTMysKYsNAjGptHUBb4XfN0p4Gw+xtIkyBW/g/WyUsXbfkL+YvQj+29dE0DmkuQ==",
+  "dgSpecHash": "6HjZbryGwlXCFK7N0UwvCcGqJBPMeSuZiRvsOOmANcC1G8uNiVDxFWdgoFEBhiKuT5E7lmLmbNKbZ0N4MTxn7w==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace\\Demo\\Demo\\Demo.iOS\\Demo.iOS.csproj",
+  "projectFilePath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.iOS\\Demo.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENGUYEN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\LENGUYEN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

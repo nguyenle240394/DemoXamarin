@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSpace\\Demo\\Demo\\Demo.Android\\Demo.Android.csproj": {}
+    "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.Android\\Demo.Android.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpace\\Demo\\Demo\\Demo.Android\\Demo.Android.csproj": {
+    "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.Android\\Demo.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace\\Demo\\Demo\\Demo.Android\\Demo.Android.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.Android\\Demo.Android.csproj",
         "projectName": "Demo.Android",
-        "projectPath": "D:\\WorkSpace\\Demo\\Demo\\Demo.Android\\Demo.Android.csproj",
+        "projectPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.Android\\Demo.Android.csproj",
         "packagesPath": "C:\\Users\\LENGUYEN\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace\\Demo\\Demo\\Demo.Android\\obj\\",
+        "outputPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj": {
-                "projectPath": "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj"
+              "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj": {
+                "projectPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj": {
+    "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj",
+        "projectPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\LENGUYEN\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace\\Demo\\Demo\\Demo\\obj\\",
+        "outputPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

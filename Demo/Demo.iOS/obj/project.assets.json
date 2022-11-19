@@ -1151,11 +1151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\Demo\\Demo\\Demo.iOS\\Demo.iOS.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.iOS\\Demo.iOS.csproj",
       "projectName": "Demo.iOS",
-      "projectPath": "D:\\WorkSpace\\Demo\\Demo\\Demo.iOS\\Demo.iOS.csproj",
+      "projectPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.iOS\\Demo.iOS.csproj",
       "packagesPath": "C:\\Users\\LENGUYEN\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\Demo\\Demo\\Demo.iOS\\obj\\",
+      "outputPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1178,8 +1178,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj": {
-              "projectPath": "D:\\WorkSpace\\Demo\\Demo\\Demo\\Demo.csproj"
+            "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj": {
+              "projectPath": "D:\\WorkSpace\\Demo\\DemoXamarin\\Demo\\Demo\\Demo.csproj"
             }
           }
         }
