@@ -1,0 +1,16 @@
+D:\WorkSpace\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.deps.json
+D:\WorkSpace\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.dll
+D:\WorkSpace\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.pdb
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csproj.AssemblyReference.cache
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfoInputs.cache
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfo.cs
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.dll
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\refint\Demo.dll
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.pdb
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\ref\Demo.dll
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Pages\App.xaml.g.cs
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+D:\WorkSpace\Demo\Demo\Demo\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs

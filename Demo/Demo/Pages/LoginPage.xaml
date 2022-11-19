@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Demo.Pages.LoginPage"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#CCFFFF"
+             BackgroundImageSource="backgroupLogin1.jpg">
+    <Grid RowDefinitions="*,*,*">
+        <Label Grid.Row="0" Text="Log In" FontSize="36" TextColor="White" FontAttributes="Bold" Padding="20,0,0,0" VerticalOptions="End"/>
+        <Frame Grid.Row="1" HasShadow="False" VerticalOptions="CenterAndExpand" CornerRadius="20" Opacity="0.9" BackgroundColor="#4F4F4F" Margin="5,0,5,0">
+            <Grid>
+                <Entry x:Name="pUserName" Grid.Row="0" Grid.ColumnSpan="3" Placeholder="User Name" TextColor="White"/>
+                <Entry x:Name="pPassword" Grid.ColumnSpan="3" Grid.Row="1" IsPassword="True" Placeholder="Password" TextColor="White"/>
+                <Button x:Name="btnLogin" Clicked="btnLogin_Clicked" Grid.Row="2" Grid.ColumnSpan="3" Text="Login" CornerRadius="10" BackgroundColor="#FF3333" FontAttributes="Bold"/>
+                <Label Grid.ColumnSpan="3" Grid.Row="3" Text="Forgot your password?" FontAttributes="Bold"/>
+            </Grid>
+        </Frame>
+    </Grid>
+</ContentPage>
