@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:dg="clr-namespace:Xamarin.Forms.DataGrid;assembly=Xamarin.Forms.DataGrid"
              x:Class="Demo.MainPage"
              Title="BMW">
     <Grid>
@@ -17,9 +16,9 @@
         <BoxView BackgroundColor="White" WidthRequest="1" Grid.Column="0"/>
         <BoxView BackgroundColor="White" WidthRequest="1" Grid.Column="1"/>
         <BoxView BackgroundColor="White" WidthRequest="1" Grid.Column="2"/>
-        <Label Text="CargoCode" Grid.Column="0" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand"/>
-        <Label Text="CargoName" Grid.Column="1" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand"/>
-        <Label Text="FactoryCode" Grid.Column="2" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand"/>
+        <Label Text="Tài khoản" Grid.Column="0" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand"/>
+        <Label Text="Số Tàu" Grid.Column="1" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand"/>
+        <Label Text="Số vận đơn" Grid.Column="2" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand"/>
         <StackLayout Grid.Row="1" Grid.ColumnSpan="3" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Padding="0">
             <ListView x:Name="plistBmwCargo" VerticalOptions="FillAndExpand" ItemsSource="{Binding listBillOfLadings}">
                 <ListView.ItemTemplate>
